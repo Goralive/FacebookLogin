@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6d31142... Create test for Facebook login
 
 # Created by https://www.gitignore.io/api/java,macos,windows,intellij,java-web,code-java,intellij+all
 
@@ -117,8 +120,11 @@ fabric.properties
 
 ### Java ###
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> 25c3207b39aa6174328063b95683691b39f662c5
+=======
+>>>>>>> 6d31142... Create test for Facebook login
 # Compiled class file
 *.class
 
@@ -135,9 +141,12 @@ fabric.properties
 *.jar
 *.war
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 *.nar
 >>>>>>> 25c3207b39aa6174328063b95683691b39f662c5
+=======
+>>>>>>> 6d31142... Create test for Facebook login
 *.ear
 *.zip
 *.tar.gz
@@ -146,6 +155,9 @@ fabric.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6d31142... Create test for Facebook login
 
 ### Java-Web ###
 ## ignoring target file
@@ -201,5 +213,8 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/java,macos,windows,intellij,java-web,code-java,intellij+all
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> 25c3207b39aa6174328063b95683691b39f662c5
+=======
+>>>>>>> 6d31142... Create test for Facebook login
