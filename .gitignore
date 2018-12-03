@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/java,macos,windows,intellij,java-web,code-java,intellij+all
 
@@ -116,6 +117,8 @@ fabric.properties
 
 ### Java ###
 =======
+=======
+>>>>>>> 25c3207b39aa6174328063b95683691b39f662c5
 # Compiled class file
 *.class
 
@@ -131,6 +134,10 @@ fabric.properties
 # Package Files #
 *.jar
 *.war
+<<<<<<< HEAD
+=======
+*.nar
+>>>>>>> 25c3207b39aa6174328063b95683691b39f662c5
 *.ear
 *.zip
 *.tar.gz
@@ -138,6 +145,7 @@ fabric.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 ### Java-Web ###
 ## ignoring target file
@@ -193,3 +201,5 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/java,macos,windows,intellij,java-web,code-java,intellij+all
 =======
+=======
+>>>>>>> 25c3207b39aa6174328063b95683691b39f662c5
