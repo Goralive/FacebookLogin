@@ -1,0 +1,5 @@
+<!--I have a lot of logs after installing log4j, this is for mute it -->
+<configuration>
+    <logger name="org.apache" level="WARN" />
+    <logger name="httpclient" level="WARN" />
+</configuration>

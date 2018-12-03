@@ -1,0 +1,10 @@
+
+<suite name="Google tests" verbose="1">
+    <tests>
+        <test name="Google"> <!-- Start class  -->
+            <classes>
+                <class name="com.selenium.TestSeleniumFacebookLogin" />
+            </classes>
+        </test>
+    </tests>
+</suite>
